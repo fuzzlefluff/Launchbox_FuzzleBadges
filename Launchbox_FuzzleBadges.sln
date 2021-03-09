@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launchbox_FuzzleBadges", "Launchbox_FuzzleBadges\Launchbox_FuzzleBadges.csproj", "{3C7D6BFA-B2F3-4EB3-A109-917C61E7C850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7D6BFA-B2F3-4EB3-A109-917C61E7C850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7D6BFA-B2F3-4EB3-A109-917C61E7C850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7D6BFA-B2F3-4EB3-A109-917C61E7C850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7D6BFA-B2F3-4EB3-A109-917C61E7C850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499873B0-1D4C-4267-8A88-086B0FBFC153}
+	EndGlobalSection
+EndGlobal

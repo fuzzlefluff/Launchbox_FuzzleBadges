@@ -1,0 +1,111 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Resources\**" />
+    <EmbeddedResource Remove="Resources\**" />
+    <None Remove="Resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Images\AmazonGamesBadge.png" />
+    <None Remove="Images\BattlenetBadge.png" />
+    <None Remove="Images\EpicGamesBadge.png" />
+    <None Remove="Images\FavoriteBadge.png" />
+    <None Remove="Images\FullyCompletedBadge.png" />
+    <None Remove="Images\GameCompletedBadge.png" />
+    <None Remove="Images\GoGGalaxyBadge.png" />
+    <None Remove="Images\NeedsDownloadBadge.png" />
+    <None Remove="Images\NeedsPurchaseBadge.png" />
+    <None Remove="Images\Nintendo3DSConsole.png" />
+    <None Remove="Images\Nintendo64Console.png" />
+    <None Remove="Images\NintendoDSConsole.png" />
+    <None Remove="Images\NintendoEntertainmentSystemConsole.png" />
+    <None Remove="Images\NintendoGameboyAdvanceConsole.png" />
+    <None Remove="Images\NintendoGameboyColorConsole.png" />
+    <None Remove="Images\NintendoGameboyConsole.png" />
+    <None Remove="Images\NintendoGamecubeConsole.png" />
+    <None Remove="Images\NintendoSwitchConsole.png" />
+    <None Remove="Images\NintendoWiiConsole.png" />
+    <None Remove="Images\NintendoWiiUConsole.png" />
+    <None Remove="Images\OriginBadge.png" />
+    <None Remove="Images\PlayedBadge.png" />
+    <None Remove="Images\SonyPlaystation2Console.png" />
+    <None Remove="Images\SonyPlaystation3Console.png" />
+    <None Remove="Images\SonyPlaystation4Console.png" />
+    <None Remove="Images\SonyPlaystationConsole.png" />
+    <None Remove="Images\SonyPSPConsole.png" />
+    <None Remove="Images\SonyVitaConsole.png" />
+    <None Remove="Images\SuperNintendoEntertainmentConsole.png" />
+    <None Remove="Images\UplayBadge.png" />
+    <None Remove="Images\Xbox360Console.png" />
+    <None Remove="Images\XboxBadge.png" />
+    <None Remove="Images\XboxConsole.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\AmazonGamesBadge.png" />
+    <EmbeddedResource Include="Images\BattlenetBadge.png" />
+    <EmbeddedResource Include="Images\EpicGamesBadge.png" />
+    <EmbeddedResource Include="Images\FavoriteBadge.png" />
+    <EmbeddedResource Include="Images\FullyCompletedBadge.png" />
+    <EmbeddedResource Include="Images\GameCompletedBadge.png" />
+    <EmbeddedResource Include="Images\GoGGalaxyBadge.png" />
+    <EmbeddedResource Include="Images\NeedsDownloadBadge.png" />
+    <EmbeddedResource Include="Images\NeedsPurchaseBadge.png" />
+    <EmbeddedResource Include="Images\Nintendo3DSConsole.png" />
+    <EmbeddedResource Include="Images\Nintendo64Console.png" />
+    <EmbeddedResource Include="Images\NintendoDSConsole.png" />
+    <EmbeddedResource Include="Images\NintendoEntertainmentSystemConsole.png" />
+    <EmbeddedResource Include="Images\NintendoGameboyAdvanceConsole.png" />
+    <EmbeddedResource Include="Images\NintendoGameboyColorConsole.png" />
+    <EmbeddedResource Include="Images\NintendoGameboyConsole.png" />
+    <EmbeddedResource Include="Images\NintendoGamecubeConsole.png" />
+    <EmbeddedResource Include="Images\NintendoSwitchConsole.png" />
+    <EmbeddedResource Include="Images\NintendoWiiConsole.png" />
+    <EmbeddedResource Include="Images\NintendoWiiUConsole.png" />
+    <EmbeddedResource Include="Images\OriginBadge.png" />
+    <EmbeddedResource Include="Images\PlayedBadge.png" />
+    <EmbeddedResource Include="Images\SonyPlaystation2Console.png" />
+    <EmbeddedResource Include="Images\SonyPlaystation3Console.png" />
+    <EmbeddedResource Include="Images\SonyPlaystation4Console.png" />
+    <EmbeddedResource Include="Images\SonyPlaystationConsole.png" />
+    <EmbeddedResource Include="Images\SonyPSPConsole.png" />
+    <EmbeddedResource Include="Images\SonyVitaConsole.png" />
+    <EmbeddedResource Include="Images\SteamBadge.png" />
+    <EmbeddedResource Include="Images\SuperNintendoEntertainmentConsole.png" />
+    <EmbeddedResource Include="Images\UplayBadge.png" />
+    <EmbeddedResource Include="Images\Xbox360Console.png" />
+    <EmbeddedResource Include="Images\XboxBadge.png" />
+    <EmbeddedResource Include="Images\XboxConsole.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Unbroken.LaunchBox.Plugins">
+      <HintPath>ref\Unbroken.LaunchBox.Plugins.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
