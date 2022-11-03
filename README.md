@@ -29,7 +29,7 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 * **Custom Field "Needs Purchase" == True, display a money sign** 
 
 &emsp;&emsp;&emsp;&emsp;![Purchase](Launchbox_FuzzleBadges/Images/NeedsPurchaseBadge.png)
-> This is to keep track of what I want on steam sales that I own on other launchers, because $5 to get it on steam is worth it
+> This is to keep track of games that I plan to buy in the future
 
 
 * **Custom Field "100% Completed" == True, display a platinum trophy** 
