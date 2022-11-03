@@ -10,38 +10,38 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 ## Misc Functional
 * **Overwrite Icon for Game Completed**
 > Because a gold trophy is better
-![GoldTrophy](img/icons/GameCompletedBadge.png)
+![GoldTrophy](Launchbox_FuzzleBadges/Images/GameCompletedBadge.png)
 
 * **Overwrite Icon for Favorite**
 > Purple Ribbons!
-![PurpleRibbon](img/icons/FavoriteBadge.png)
+![PurpleRibbon](Launchbox_FuzzleBadges/Images/FavoriteBadge.png)
 
 * **Overwrite Icon for Installed (needs download)**
 > Need to download this game!
-![NeedsDownload](img/icons/NeedsDownloadBadge.png)
+![NeedsDownload](Launchbox_FuzzleBadges/Images/NeedsDownloadBadge.png)
 
 * **Custom Field "Needs Purchase" == True, display a money sign** 
 > This is to keep track of what I want on steam sales that I own on other launchers, because $5 to get it on steam is worth it
-![Purchase](img/icons/NeedsPurchaseBadge.png)
+![Purchase](Launchbox_FuzzleBadges/Images/NeedsPurchaseBadge.png)
 
 * **Custom Field "100% Completed" == True, display a platinum trophy** 
 > To keep track of the games you platinum
-![Platinum](img/icons/FullyCompletedBadge.png)
+![Platinum](Launchbox_FuzzleBadges/Images/FullyCompletedBadge.png)
 
 * **Replacement for "New" Badge**
 > Checks to see if the game has a lastplayed value, if its null the badge will display, otherwise it won't, allows to mark several games as played without tediously launching them all by simply setting them all to a last played date
-![NewGameBadge](img/icons/PlayedBadge.png)
+![NewGameBadge](Launchbox_FuzzleBadges/Images/PlayedBadge.png)
 
 
 ## Pc Source Libraries
-![Amazon](img/icons/AmazonGamesBadge.png)
-![Battlenet](img/icons/BattlenetBadge.png)
-![Epic](img/icons/EpicGamesBadge.png)
-![GOG](img/icons/GoGGalaxyBadge.png)
-![Origin](img/icons/OriginBadge.png)
-![Steam](img/icons/SteamBadge.png)
-![Ubisoft](img/icons/UplayBadge.png)
-![Xbox](img/icons/XboxBadge.png)
+![Amazon](Launchbox_FuzzleBadges/Images/AmazonGamesBadge.png)
+![Battlenet](Launchbox_FuzzleBadges/Images/BattlenetBadge.png)
+![Epic](Launchbox_FuzzleBadges/Images/EpicGamesBadge.png)
+![GOG](Launchbox_FuzzleBadges/Images/GoGGalaxyBadge.png)
+![Origin](Launchbox_FuzzleBadges/Images/OriginBadge.png)
+![Steam](Launchbox_FuzzleBadges/Images/SteamBadge.png)
+![Ubisoft](Launchbox_FuzzleBadges/Images/UplayBadge.png)
+![Xbox](Launchbox_FuzzleBadges/Images/XboxBadge.png)
 * Amazon Games
 * Battle.Net/Blizzard App
 * Epic Games Store/Epic Games Launcher
@@ -52,25 +52,25 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 * Xbox Game Pass/Microsoft Store
 
 ## Consoles/Portables
-![Xbox](img/icons/XboxConsole.png)
-![360](img/icons/Xbox360Console.png)
+![Xbox](Launchbox_FuzzleBadges/Images/XboxConsole.png)
+![360](Launchbox_FuzzleBadges/Images/Xbox360Console.png)
 ![DS](img/dsReduced.png)
-![64](img/icons/Nintendo64Console.png)
-![3DS](img/icons/Nintendo3DSConsole.png)
+![64](Launchbox_FuzzleBadges/Images/Nintendo64Console.png)
+![3DS](Launchbox_FuzzleBadges/Images/Nintendo3DSConsole.png)
 ![NES](img/nesReduced.png)
-![GB](img/icons/NintendoGameboyConsole.png)
-![GBC](img/icons/NintendoGameboyColorConsole.png)
-![GBA](img/icons/NintendoGameboyAdvanceConsole.png)
-![GCN](img/icons/NintendoGamecubeConsole.png)
-![NS](img/icons/NintendoSwitchConsole.png)
-![Wii](img/icons/NintendoWiiConsole.png)
-![WiiU](img/icons/NintendoWiiUConsole.png)
-![PS](img/icons/SonyPlaystationConsole.png)
-![PS2](img/icons/SonyPlaystation2Console.png)
-![PS3](img/icons/SonyPlaystation3Console.png)
-![PS4](img/icons/SonyPlaystation4Console.png)
-![PSP](img/icons/SonyPSPConsole.png)
-![PSV](img/icons/SonyVitaConsole.png)
+![GB](Launchbox_FuzzleBadges/Images/NintendoGameboyConsole.png)
+![GBC](Launchbox_FuzzleBadges/Images/NintendoGameboyColorConsole.png)
+![GBA](Launchbox_FuzzleBadges/Images/NintendoGameboyAdvanceConsole.png)
+![GCN](Launchbox_FuzzleBadges/Images/NintendoGamecubeConsole.png)
+![NS](Launchbox_FuzzleBadges/Images/NintendoSwitchConsole.png)
+![Wii](Launchbox_FuzzleBadges/Images/NintendoWiiConsole.png)
+![WiiU](Launchbox_FuzzleBadges/Images/NintendoWiiUConsole.png)
+![PS](Launchbox_FuzzleBadges/Images/SonyPlaystationConsole.png)
+![PS2](Launchbox_FuzzleBadges/Images/SonyPlaystation2Console.png)
+![PS3](Launchbox_FuzzleBadges/Images/SonyPlaystation3Console.png)
+![PS4](Launchbox_FuzzleBadges/Images/SonyPlaystation4Console.png)
+![PSP](Launchbox_FuzzleBadges/Images/SonyPSPConsole.png)
+![PSV](Launchbox_FuzzleBadges/Images/SonyVitaConsole.png)
 * Microsoft Xbox
 * Microsoft Xbox 360
 * Nintendo 3DS
