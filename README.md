@@ -92,5 +92,5 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 * Sony Playstation Portalble (PSP)
 * Sony Playstation Vita
 
-## In Launchbox List:
+## In Launchbox
 ![Example](img/badgelist.PNG)
