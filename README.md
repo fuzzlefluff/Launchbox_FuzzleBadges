@@ -54,10 +54,10 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 ## Consoles/Portables
 ![Xbox](img/icons/XboxConsole.png)
 ![360](img/icons/Xbox360Console.png)
-![DS](img/icons/dsReduced.png)
+![DS](img/dsReduced.png)
 ![64](img/icons/Nintendo64Console.png)
 ![3DS](img/icons/Nintendo3DSConsole.png)
-![NES](img/icons/nesReduced.png)
+![NES](img/nesReduced.png)
 ![GB](img/icons/NintendoGameboyConsole.png)
 ![GBC](img/icons/NintendoGameboyColorConsole.png)
 ![GBA](img/icons/NintendoGameboyAdvanceConsole.png)
