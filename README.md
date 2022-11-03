@@ -9,28 +9,42 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 
 ## Misc Functional
 * **Overwrite Icon for Game Completed**
+
+&emsp;&emsp;&emsp;&emsp;![GoldTrophy](Launchbox_FuzzleBadges/Images/GameCompletedBadge.png)
 > Because a gold trophy is better
-![GoldTrophy](Launchbox_FuzzleBadges/Images/GameCompletedBadge.png)
+
 
 * **Overwrite Icon for Favorite**
+
+&emsp;&emsp;&emsp;&emsp;![PurpleRibbon](Launchbox_FuzzleBadges/Images/FavoriteBadge.png)
 > Purple Ribbons!
-![PurpleRibbon](Launchbox_FuzzleBadges/Images/FavoriteBadge.png)
+
 
 * **Overwrite Icon for Installed (needs download)**
+
+&emsp;&emsp;&emsp;&emsp;![NeedsDownload](Launchbox_FuzzleBadges/Images/NeedsDownloadBadge.png)
 > Need to download this game!
-![NeedsDownload](Launchbox_FuzzleBadges/Images/NeedsDownloadBadge.png)
+
 
 * **Custom Field "Needs Purchase" == True, display a money sign** 
+
+&emsp;&emsp;&emsp;&emsp;![Purchase](Launchbox_FuzzleBadges/Images/NeedsPurchaseBadge.png)
 > This is to keep track of what I want on steam sales that I own on other launchers, because $5 to get it on steam is worth it
-![Purchase](Launchbox_FuzzleBadges/Images/NeedsPurchaseBadge.png)
+
 
 * **Custom Field "100% Completed" == True, display a platinum trophy** 
+
+&emsp;&emsp;&emsp;&emsp;![Platinum](Launchbox_FuzzleBadges/Images/FullyCompletedBadge.png)
 > To keep track of the games you platinum
-![Platinum](Launchbox_FuzzleBadges/Images/FullyCompletedBadge.png)
+
 
 * **Replacement for "New" Badge**
-> Checks to see if the game has a lastplayed value, if its null the badge will display, otherwise it won't, allows to mark several games as played without tediously launching them all by simply setting them all to a last played date
-![NewGameBadge](Launchbox_FuzzleBadges/Images/PlayedBadge.png)
+
+&emsp;&emsp;&emsp;&emsp;![NewGameBadge](Launchbox_FuzzleBadges/Images/PlayedBadge.png)
+> Checks to see if the game has a lastplayed value, if its null the badge will display, otherwise it won't, 
+
+> allows for marking several games as played without tediously launching them all by simply setting them all to a last played date
+
 
 
 ## Pc Source Libraries
