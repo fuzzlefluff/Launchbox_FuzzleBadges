@@ -1,10 +1,11 @@
 # Launchbox_FuzzleBadges
 An extension plugin that adds a ton of badges for launchbox for things like source versions, platforms, and some misc custom values and tracking. 
-Some are simple replacements for existing ones but I wanted my own icon embeded in so I made a duplicate badge. 
+Some are simple replacements for existing ones but I wanted my own icon embeded in so I made a duplicate badge.
 
-### If you don't want all of these, just recompile it and exclude the classes you don't want
+![Example](img/lbBadgesExample.PNG)
+### If you don't want all of these, just recompile it and exclude the classes you don't want (or just turn them off)
 
-### Has some issues with the indexing, seems to be fairly random and Launchbox is ignoring my prescribed values, maybe I have too many on a single index?
+###### Has some issues with the indexing, seems to be fairly random and Launchbox is ignoring my prescribed values, maybe I have too many on a single index?
 
 ## Misc Functional
 * **Overwrite Icon for Game Completed**
@@ -13,18 +14,15 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 
 * **Overwrite Icon for Installed (needs download)**
 
-* **Custom Field "Needs Purchase" == True, display a money sign**
+* **Custom Field "Needs Purchase" == True, display a money sign** 
+> This is to keep track of what I want on steam sales that I own on other launchers, because $5 to get it on steam is worth it
 
-This is to keep track of what I want on steam sales that I own on other launchers, because $5 to get it on steam is worth
-
-* **Custom Field "100% Completed" == True, display a platinum trophy**
-
-To keep track of the games you platinum
+* **Custom Field "100% Completed" == True, display a platinum trophy** 
+> To keep track of the games you platinum
 
 * **Replacement for "New" Badge**
 
-Checks to see if the game has a lastplayed value, if its null the badge will display, otherwise it won't, 
-allows to mark several games as played without tediously launching them all by simply setting them all to a last played date
+> Checks to see if the game has a lastplayed value, if its null the badge will display, otherwise it won't, allows to mark several games as played without tediously launching them all by simply setting them all to a last played date
 
 
 ## Pc Source Libraries
@@ -58,3 +56,6 @@ allows to mark several games as played without tediously launching them all by s
 * Sony Playstation 4
 * Sony Playstation Portalble (PSP)
 * Sony Playstation Vita
+
+## In Launchbox List:
+![Example](img/badgelist.PNG)
