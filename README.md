@@ -9,8 +9,10 @@ Some are simple replacements for existing ones but I wanted my own icon embeded 
 
 ## Misc Functional
 * **Overwrite Icon for Game Completed**
+> Because a gold trophy is better
 
 * **Overwrite Icon for Favorite**
+> Purple Ribbons!
 
 * **Overwrite Icon for Installed (needs download)**
 
