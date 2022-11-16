@@ -3,7 +3,7 @@ An extension plugin that adds a ton of badges for launchbox for things like sour
 Some are simple replacements for existing ones but I wanted my own icon embeded in so I made a duplicate badge.
 
 ![Example](img/lbBadgesExample.PNG)
-### If you don't want all of these, just recompile it and exclude the classes you don't want (or just turn them off)
+### If you don't want all of these, just recompile it and exclude the classes you don't want (or just turn them off in launchbox)
 
 ###### Has some issues with the indexing, seems to be fairly random and Launchbox is ignoring my prescribed values, maybe I have too many on a single index?
 
